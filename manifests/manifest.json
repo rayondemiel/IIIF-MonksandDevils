@@ -94,6 +94,11 @@
         "on" : "http://90b7a12a-2ef9-4429-8606-168a76425733"
       } ],
       "related" : "",
+      "otherContent" : [ {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/7633f322524561d2aea664f053bf4b70.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "metadata" : [ {
         "label" : "Title",
         "value" : "Vitae Patrum"
@@ -145,6 +150,11 @@
         "on" : "http://989812f6-3180-4e0e-976c-02086f0b63ef"
       } ],
       "related" : "",
+      "otherContent" : [ {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/24aa8fcbe9a2c3eb94c8ede6519ae751.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "metadata" : [ {
         "label" : "Title",
         "value" : " La Vie des Pères du désert"
@@ -196,6 +206,11 @@
         "on" : "http://fa32a474-da39-4454-9e72-c8610f25e76c"
       } ],
       "related" : "",
+      "otherContent" : [ {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/63f168a30c28f997424d0c98f3e9b7a6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "metadata" : [ {
         "label" : "Title",
         "value" : "De regimine principum"
@@ -247,6 +262,11 @@
         "on" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd"
       } ],
       "related" : "",
+      "otherContent" : [ {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/197b257b240a2ee5ffed84fe36b7c41b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "metadata" : [ {
         "label" : "Title",
         "value" : "Miracles de Notre Dame"
