@@ -1,0 +1,278 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest IIIF about representation of the monks and the devil.",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "It's a manifest containing 5 images about iconographic representation of the relationship between the devil and the monk through the manuscripts of the Late Middle Ages in Western Europe",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "ENC - Ecole nationale des Chartes",
+  "sequences" : [ {
+    "@id" : "http://28fe3486-4878-47f2-94b3-b265ed07d49f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee",
+      "@type" : "sc:Canvas",
+      "label" : "\"Lucyfer\", Codex Gigas, fol. 290r",
+      "height" : "4387",
+      "width" : "2807",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0b85be16-22b9-4250-bdfc-ff53f1f1a284",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/codex-577/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/codex-577",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4387,
+          "width" : 2807
+        },
+        "on" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Herman the Recluse"
+      }, {
+        "label" : "Date",
+        "value" : "1200 to 1230"
+      }, {
+        "label" : "Languages",
+        "value" : "Latin (mainly)"
+      }, {
+        "label" : "Location (production)",
+        "value" : "Bohemia"
+      }, {
+        "label" : "Institution",
+        "value" : "National Library of Sweden"
+      }, {
+        "label" : "Id",
+        "value" : "Unknow"
+      }, {
+        "label" : "Folio",
+        "value" : "290 r"
+      }, {
+        "label" : "Title",
+        "value" : "Codex Gigas"
+      } ]
+    }, {
+      "@id" : "http://90b7a12a-2ef9-4429-8606-168a76425733",
+      "@type" : "sc:Canvas",
+      "label" : "\"The devils punishing the offending monks\", Vitae patrum, MS M.626 fol. 128r",
+      "height" : 600,
+      "width" : 424,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a2c78962-3dae-4669-bf26-5e817a7f856c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/m626.128r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/m626.128r",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 600,
+          "width" : 424
+        },
+        "on" : "http://90b7a12a-2ef9-4429-8606-168a76425733"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Vitae Patrum"
+      }, {
+        "label" : "Author",
+        "value" : "Unknow"
+      }, {
+        "label" : "Date",
+        "value" : "1350 to 1375"
+      }, {
+        "label" : "Language",
+        "value" : "Latin"
+      }, {
+        "label" : "Location (Production)",
+        "value" : "Italia, Naples"
+      }, {
+        "label" : "Id",
+        "value" : "MS M.626"
+      }, {
+        "label" : "Folio",
+        "value" : "128 r"
+      }, {
+        "label" : "Institution",
+        "value" : "The Morgan Library & Museum"
+      } ]
+    }, {
+      "@id" : "http://989812f6-3180-4e0e-976c-02086f0b63ef",
+      "@type" : "sc:Canvas",
+      "label" : "\"Devil preventing bad monks from taking communion\", Français 24947, fol. 34v",
+      "height" : 1904,
+      "width" : 1063,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://217eea90-85c9-43b4-ba63-db2b5a12dafe",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vie-peres-34v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vie-peres-34v",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1904,
+          "width" : 1063
+        },
+        "on" : "http://989812f6-3180-4e0e-976c-02086f0b63ef"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : " La Vie des Pères du désert"
+      }, {
+        "label" : "Author",
+        "value" : "Unknow"
+      }, {
+        "label" : "Date",
+        "value" : "XIVe century"
+      }, {
+        "label" : "Language",
+        "value" : "French"
+      }, {
+        "label" : "Location (Production)",
+        "value" : "Belgium"
+      }, {
+        "label" : "Id",
+        "value" : "Français 24947"
+      }, {
+        "label" : "Institution",
+        "value" : "Bibliothèque nationale de France, Département des Manuscrits"
+      }, {
+        "label" : "Folio",
+        "value" : "34 v"
+      } ]
+    }, {
+      "@id" : "http://fa32a474-da39-4454-9e72-c8610f25e76c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4050,
+      "width" : 2710,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://991a5a9c-5841-468d-a43c-b99086ed674e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/bodleian-library-ms-bodl-181-00001-fol-097v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/bodleian-library-ms-bodl-181-00001-fol-097v",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4050,
+          "width" : 2710
+        },
+        "on" : "http://fa32a474-da39-4454-9e72-c8610f25e76c"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "De regimine principum"
+      }, {
+        "label" : "Author",
+        "value" : "Aegidius de Columna"
+      }, {
+        "label" : "Date",
+        "value" : "XVe century"
+      }, {
+        "label" : "Language",
+        "value" : "Latin (mainly), english"
+      }, {
+        "label" : "Location (Production)",
+        "value" : "England"
+      }, {
+        "label" : "Id",
+        "value" : "MS. Bodl. 181"
+      }, {
+        "label" : "Institution",
+        "value" : "Bodleian Libraries, University of Oxford"
+      }, {
+        "label" : "Folio",
+        "value" : "97 v"
+      } ]
+    }, {
+      "@id" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 536,
+      "width" : 804,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aadbb3ee-dc6b-4cc7-a0e7-5b6d2f2b4e30",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/bes-76v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/bes-76v",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 536,
+          "width" : 804
+        },
+        "on" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Miracles de Notre Dame"
+      }, {
+        "label" : "Author",
+        "value" : "Gautier de Coinci"
+      }, {
+        "label" : "Date",
+        "value" : "1275 to 1300"
+      }, {
+        "label" : "Language",
+        "value" : "French"
+      }, {
+        "label" : "Location (Production)",
+        "value" : "France (East)"
+      }, {
+        "label" : "Id",
+        "value" : "Besançon, BM, 0551"
+      }, {
+        "label" : "Institution",
+        "value" : "Bibliothèque municipale de Besançon"
+      }, {
+        "label" : "Folio",
+        "value" : "76 r"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
