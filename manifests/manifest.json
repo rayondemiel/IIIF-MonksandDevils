@@ -43,6 +43,11 @@
         "on" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee"
       } ],
       "related" : "",
+      "otherContent" : [ {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/28593af87d9fa87bf394d92c8b73f2d8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "metadata" : [ {
         "label" : "Author",
         "value" : "Herman the Recluse"
