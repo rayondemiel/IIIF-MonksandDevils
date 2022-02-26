@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1063,
+    "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/canvas/",
+    "label" : {
+      "none" : [ "Vies_peres" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 60
+            }, {
+              "width" : 67,
+              "height" : 119
+            }, {
+              "width" : 133,
+              "height" : 238
+            }, {
+              "width" : 266,
+              "height" : 476
+            }, {
+              "width" : 532,
+              "height" : 952
+            }, {
+              "width" : 1063,
+              "height" : 1904
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1063,
+            "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1904
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1063,
+          "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1904
+        },
+        "target" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/canvas/"
+      } ]
+    } ],
+    "height" : 1904
+  }, {
     "width" : 2710,
     "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/canvas/",
     "label" : {
