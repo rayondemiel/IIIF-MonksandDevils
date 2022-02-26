@@ -21,8 +21,8 @@
       "@id" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee",
       "@type" : "sc:Canvas",
       "label" : "\"Lucyfer\", Codex Gigas, fol. 290r",
-      "height" : "4387",
-      "width" : "2807",
+      "height" : 4387,
+      "width" : 2807,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://0b85be16-22b9-4250-bdfc-ff53f1f1a284",
