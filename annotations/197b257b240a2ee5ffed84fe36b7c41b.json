@@ -1,0 +1,125 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ser en la croix ce n est pas fabl e.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>ser en la croix ce n est pas fabl e.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88341216",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T13:35:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645882506575",
+    "dcterms:modified" : "2022-02-26T13:35:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=77,496,618,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M77.47171,496.13818h308.89818v0h308.89818v19.93091v19.93091h-308.89818h-308.89818v-19.93091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dc13a7e1-e793-4c74-8f47-8913e6e6eeef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Poor preservation quality. We see a devil throwing the monk overboard. It refers to the \"Miracle of the drowned lustful monk\".",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Poor preservation quality. We see a devil throwing the monk overboard. It refers to the \"Miracle of the drowned lustful monk\".</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Monk",
+      "@type" : "oa:Tag",
+      "chars" : "Monk"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Devil",
+      "@type" : "oa:Tag",
+      "chars" : "Devil"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "miracle",
+      "@type" : "oa:Tag",
+      "chars" : "miracle"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Iconographic",
+      "@type" : "oa:Tag",
+      "chars" : "Iconographic"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88341216",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-26T13:32:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645882344847",
+    "dcterms:modified" : "2022-02-26T13:36:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=83,37,557,457"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M83.20117,36.76358h278.44493v0h278.44493v228.26872v228.26872h-278.44493h-278.44493v-228.26872z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_339d65f0-edf3-4851-bdd7-82ae6ddc1383\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"4.50609\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "iex par la mort tas creition v.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>iex par la mort tas creition v.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "text",
+      "@type" : "oa:Tag",
+      "chars" : "text"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88341216",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-26T13:36:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645882582774",
+    "dcterms:modified" : "2022-02-26T13:36:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=83,1,616,31"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M83.07132,1.26692h308.16548v0h308.16548v15.2693v15.2693h-308.16548h-308.16548v-15.2693z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d93a852b-0e81-4ed7-ad02-eb386c95fd7f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"4.50609\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d2e6e0e-6c65-4004-a713-df18041ddecd"
+    } ]
+  } ],
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/197b257b240a2ee5ffed84fe36b7c41b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
