@@ -1,0 +1,66 @@
+{
+  "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in rayondemiel/IIIF-MonksandDevils project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2807,
+    "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/canvas/",
+    "label" : {
+      "none" : [ "Codex_Gigas" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 88,
+              "height" : 138
+            }, {
+              "width" : 176,
+              "height" : 275
+            }, {
+              "width" : 351,
+              "height" : 549
+            }, {
+              "width" : 702,
+              "height" : 1097
+            }, {
+              "width" : 1404,
+              "height" : 2194
+            }, {
+              "width" : 2807,
+              "height" : 4387
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2807,
+            "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4387
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2807,
+          "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4387
+        },
+        "target" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/canvas/"
+      } ]
+    } ],
+    "height" : 4387
+  } ]
+}
