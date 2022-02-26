@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 804,
+    "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame/canvas/",
+    "label" : {
+      "none" : [ "Miracle_NotreDame" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 26,
+              "height" : 17
+            }, {
+              "width" : 51,
+              "height" : 34
+            }, {
+              "width" : 101,
+              "height" : 67
+            }, {
+              "width" : 201,
+              "height" : 134
+            }, {
+              "width" : 402,
+              "height" : 268
+            }, {
+              "width" : 804,
+              "height" : 536
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 804,
+            "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 536
+          } ],
+          "format" : "image/jpeg",
+          "width" : 804,
+          "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 536
+        },
+        "target" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Miracle_NotreDame/canvas/"
+      } ]
+    } ],
+    "height" : 536
+  }, {
     "width" : 1063,
     "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres/canvas/",
     "label" : {
