@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/7633f322524561d2aea664f053bf4b70.json", "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/24aa8fcbe9a2c3eb94c8ede6519ae751.json", "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/63f168a30c28f997424d0c98f3e9b7a6.json" ],
+  "otherContent" : [ "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/7633f322524561d2aea664f053bf4b70.json", "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/24aa8fcbe9a2c3eb94c8ede6519ae751.json", "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/63f168a30c28f997424d0c98f3e9b7a6.json", "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/197b257b240a2ee5ffed84fe36b7c41b.json" ],
   "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/collection.json",
   "label" : "All annotations loaded in rayondemiel/IIIF-MonksandDevils project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
