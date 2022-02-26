@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 424,
+    "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/canvas/",
+    "label" : {
+      "none" : [ "Vitae_patrum" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 14,
+              "height" : 19
+            }, {
+              "width" : 27,
+              "height" : 38
+            }, {
+              "width" : 53,
+              "height" : 75
+            }, {
+              "width" : 106,
+              "height" : 150
+            }, {
+              "width" : 212,
+              "height" : 300
+            }, {
+              "width" : 424,
+              "height" : 600
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 424,
+            "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 600
+          } ],
+          "format" : "image/jpeg",
+          "width" : 424,
+          "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 600
+        },
+        "target" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/canvas/"
+      } ]
+    } ],
+    "height" : 600
+  }, {
     "width" : 2807,
     "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas/canvas/",
     "label" : {
