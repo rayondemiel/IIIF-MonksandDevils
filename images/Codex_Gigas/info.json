@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 88,
+    "height" : 138
+  }, {
+    "width" : 176,
+    "height" : 275
+  }, {
+    "width" : 351,
+    "height" : 549
+  }, {
+    "width" : 702,
+    "height" : 1097
+  }, {
+    "width" : 1404,
+    "height" : 2194
+  }, {
+    "width" : 2807,
+    "height" : 4387
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2807,
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Codex_Gigas",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4387
+}
