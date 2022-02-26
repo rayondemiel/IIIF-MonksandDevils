@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "devil",
+      "@type" : "oa:Tag",
+      "chars" : "devil"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconographic",
+      "@type" : "oa:Tag",
+      "chars" : "iconographic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "A picture of the devil, about 50 cm (20 in) tall. The devil is shown frontally, crouching with arms uplifted in a dynamic posture. He is clothed in a white loincloth with small comma-shaped red dashes. These dashes have been interpreted as the tails of ermine furs, a common symbol of sovereignty. He has no tail, and his body, arms and legs are of normal human proportions. His hands and feet end with only four fingers and toes each, terminating in large claws; both his claws and large horns are red.He has a large, dark green head, and his hair forms a skull cap of dense curls. The eyes are small, with red pupils, and his red-tipped ears are large. His open mouth reveals his small white teeth, and two long red tongues protrude from the corners of his mouth. This doubling of tongues evokes negative associations with serpents, which have forked tongues, a metaphoric reference to dishonest human beings. The expression 'forked tongues' is an ancient one and is found in the Bible (Nordenfalk 1975, n. 15). Several pages before this double spread are written in yellow characters on a blackened parchment and have a very gloomy character, somewhat different from the rest of the codex. The reason for the variation in coloring is that the pages of the codex are of vellum. Vellum, or scraped and dried animal hide, \\\"tans\\\" when exposed to ultraviolet light. Over centuries, the pages that were most frequently turned have developed this tell-tale darker color.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A picture of the devil, about 50 cm (20 in) tall. The devil is shown frontally, crouching with arms uplifted in a dynamic posture. He is clothed in a white loincloth with small comma-shaped red dashes. These dashes have been interpreted as the tails of ermine furs, a common symbol of sovereignty. He has no tail, and his body, arms and legs are of normal human proportions. His hands and feet end with only four fingers and toes each, terminating in large claws; both his claws and large horns are red.He has a large, dark green head, and his hair forms a skull cap of dense curls. The eyes are small, with red pupils, and his red-tipped ears are large. His open mouth reveals his small white teeth, and two long red tongues protrude from the corners of his mouth. This doubling of tongues evokes negative associations with serpents, which have forked tongues, a metaphoric reference to dishonest human beings. The expression 'forked tongues' is an ancient one and is found in the Bible (Nordenfalk 1975, n. 15). Several pages before this double spread are written in yellow characters on a blackened parchment and have a very gloomy character, somewhat different from the rest of the codex. The reason for the variation in coloring is that the pages of the codex are of vellum. Vellum, or scraped and dried animal hide, \\\"tans\\\" when exposed to ultraviolet light. Over centuries, the pages that were most frequently turned have developed this tell-tale darker color.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88341216",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T15:39:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645889989808",
+    "dcterms:modified" : "2022-02-26T15:39:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=313,1518,1219,1969"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M312.99701,1517.89736h609.28108v0h609.28108v984.56561v984.56561h-609.28108h-609.28108v-984.56561z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f9c48bab-590c-4d6e-972f-5c6c9204cdf7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee"
+    } ]
+  } ],
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/28593af87d9fa87bf394d92c8b73f2d8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
