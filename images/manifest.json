@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2710,
+    "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/canvas/",
+    "label" : {
+      "none" : [ "De_principe_registrum" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 85,
+              "height" : 127
+            }, {
+              "width" : 170,
+              "height" : 254
+            }, {
+              "width" : 339,
+              "height" : 507
+            }, {
+              "width" : 678,
+              "height" : 1013
+            }, {
+              "width" : 1355,
+              "height" : 2025
+            }, {
+              "width" : 2710,
+              "height" : 4050
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2710,
+            "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4050
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2710,
+          "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4050
+        },
+        "target" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum/canvas/"
+      } ]
+    } ],
+    "height" : 4050
+  }, {
     "width" : 424,
     "id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vitae_patrum/canvas/",
     "label" : {
