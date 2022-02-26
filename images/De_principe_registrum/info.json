@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 85,
+    "height" : 127
+  }, {
+    "width" : 170,
+    "height" : 254
+  }, {
+    "width" : 339,
+    "height" : 507
+  }, {
+    "width" : 678,
+    "height" : 1013
+  }, {
+    "width" : 1355,
+    "height" : 2025
+  }, {
+    "width" : 2710,
+    "height" : 4050
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2710,
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/De_principe_registrum",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4050
+}
