@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 34,
+    "height" : 60
+  }, {
+    "width" : 67,
+    "height" : 119
+  }, {
+    "width" : 133,
+    "height" : 238
+  }, {
+    "width" : 266,
+    "height" : 476
+  }, {
+    "width" : 532,
+    "height" : 952
+  }, {
+    "width" : 1063,
+    "height" : 1904
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1063,
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/images/Vies_peres",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1904
+}
