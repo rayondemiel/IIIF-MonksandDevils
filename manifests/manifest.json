@@ -44,7 +44,7 @@
       } ],
       "related" : "",
       "otherContent" : [ {
-        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/28593af87d9fa87bf394d92c8b73f2d8.json",
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/annotation.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
