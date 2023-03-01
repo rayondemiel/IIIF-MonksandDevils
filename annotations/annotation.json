@@ -1,0 +1,38 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://0.0.0.0:8888/annotation/1677687223462",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2023-03-01T17:13:43",
+    "dcterms:modified" : "2023-03-01T17:13:43",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://media.geeksforgeeks.org/wp-content/uploads/20200328181433/5100.25.png\" target=\"_blank\" rel=\"noopener\"><img src=\"https://media.geeksforgeeks.org/wp-content/uploads/20200328181433/5100.25.png\" alt=\"\" />",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://media.geeksforgeeks.org/wp-content/uploads/20200328181433/5100.25.png\" target=\"_blank\" rel=\"noopener\"><img src=\"https://media.geeksforgeeks.org/wp-content/uploads/20200328181433/5100.25.png\" alt=\"\" /></a></p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/manifests/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1864,549,53,79"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1890.64392,628.81491c0,-17.65014 8.82507,-35.30028 26.47521,-52.95043c0,-14.62186 -11.85336,-26.47521 -26.47521,-26.47521c-14.62186,0 -26.47521,11.85336 -26.47521,26.47521c17.65014,17.65014 26.47521,35.30028 26.47521,52.95043z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_27f60a42-1bf9-43bb-a321-2498c6fe9a9e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://28e8a056-27c9-4263-b18f-d46d9b148eee"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://rayondemiel.github.io/IIIF-MonksandDevils/annotations/annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
